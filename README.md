@@ -4,7 +4,9 @@ Name : Rheya e Reg.no: 212225040334
 QUESTION
 To design a basic mobile and web layout for an existing case study.
 
-ANSWER
+AIM:
+Students identify and improve the visual hierarchy of an existing interface.
+
 a. Gestalt Principles (Job Application Form Design)
 
 Proximity:
