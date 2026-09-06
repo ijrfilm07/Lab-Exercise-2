@@ -6,31 +6,38 @@ To design a basic mobile and web layout for an existing case study.
 
 ANSWER
 a. Gestalt Principles (Job Application Form Design)
+
 Proximity:
 Related information fields such as Full Name, Date of Birth,
 Email, Phone Number, Address, Education, Experience, and
 Resume Upload are arranged together in a structured form layout,
 helping users understand the sequence of information required.
+
 Similarity:
 All input fields follow a consistent rectangular design with similar
 size, border style, and alignment. The labels use the same font
 style and color, creating a uniform appearance throughout the
 form.
+
 Figure-Ground:
 The white form area stands out clearly from the background,
 while the dark green text and borders create contrast, making the
 content easily readable.
+
 Closure:
 The rounded rectangular border encloses all form elements,
 allowing users to perceive the entire application form as a single
 organized component.
+
 Continuity:
 The vertical arrangement of fields guides users naturally from
 personal details to educational information and finally to resume
 upload and submission.
+
 Symmetry:
 The balanced alignment of labels, input boxes, logo, and submit
 button creates a clean and professional interface.
+
 b. UI Elements & Design Patterns (Job Application
 Form)
 • Header section containing the college logo and "Job
@@ -52,6 +59,7 @@ Green and white color combination representing
 professionalism and trust.
 • Rounded border design providing a modern interface
 appearance.
+
 c. Interaction & Usability (Job Application Form)
 • Simple and organized layout helps users complete the form
 easily.
@@ -68,6 +76,7 @@ mobile and web platforms.
 • Minimal design reduces user distraction and improves
 completion speed.
 • Consistent alignment creates a smooth user experience.
+
 d. UI Design (Job Application Form)
 Application Name:
 Job Application Form
