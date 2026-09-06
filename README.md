@@ -95,5 +95,8 @@ Design Style:
 • Responsive
 • Corporate style 
 
-<img width="1351" height="1164" alt="ChatGPT Image Sep 7, 2026, 12_36_25 AM" src="https://github.com/user-attachments/assets/7cda6114-1a6b-4b57-ad64-13201cdc5514" />
+w<img width="362" height="837" alt="image" src="https://github.com/user-attachments/assets/70f70267-d775-4b30-832e-af89b0e7e314" />
+<img width="1036" height="832" alt="Screenshot 2026-09-07 004449" src="https://github.com/user-attachments/assets/b633daa2-885a-4081-b3ab-715d58e4ddb0" />
+
+
 
