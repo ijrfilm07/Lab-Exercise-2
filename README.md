@@ -106,6 +106,8 @@ Design Style:
 • Responsive
 • Corporate style 
 
+OUTPUT:
+
 w<img width="362" height="837" alt="image" src="https://github.com/user-attachments/assets/70f70267-d775-4b30-832e-af89b0e7e314" />
 <img width="1036" height="832" alt="Screenshot 2026-09-07 004449" src="https://github.com/user-attachments/assets/b633daa2-885a-4081-b3ab-715d58e4ddb0" />
 
